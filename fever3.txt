@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>AYUSH KUMAR 12132</title>
+<style>
+body {
+font-family: Arial, sans-serif;
+margin: 0;
+padding: 20px;
+background-color: #f5f5f5;
+        }
+
+h1 {
+color: #007BFF;
+text-align: center;
+ }
+
+p {
+margin-bottom: 10px;
+   }
+</style>
+</head>
+<body>
+    <h1>Fever Remedy</h1>
+    <p>If you have a fever, you can consider the following home remedy:</p>
+    <p>Rest and stay hydrated by drinking water, clear broths, or electrolyte-rich drinks. Use a damp cloth to cool your forehead and body. Over-the-counter fever reducers like acetaminophen or ibuprofen may also help. If the fever is high or prolonged, seek medical advice.</p>
+    <p>Remember, it's important to consult a healthcare professional if you have a persistent or severe fever.</p>
+<img src = "feverremedy.jpeg" height="500" width="700">
+
+</body>
+</html>

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>AYUSH KUMAR 12132</title>
+<style>
+body {
+font-family: Arial, sans-serif;
+margin: 0;
+padding: 20px;
+background-color: #f5f5f5;
+}
+
+h1 {
+color: #007BFF;
+text-align: center;
+}
+
+p {
+margin-bottom: 10px;
+}
+</style>
+</head>
+<body>
+    <h1>Stomach Pain Remedy</h1>
+    <p>If you're experiencing stomach pain, you can consider the following home remedy:</p>
+    <p>Rest and avoid consuming heavy or spicy foods. Drink ginger tea or chamomile tea to help soothe your stomach. If the pain persists or worsens, seek medical advice.</p>
+    <p>Remember, it's important to consult a healthcare professional if you have severe or persistent stomach pain.</p>
+<img src = "stomachremedy.jpg" height="500" width="700">
+
+</body>
+</html>

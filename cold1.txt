@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>AYUSH KUMAR 12132</title>
+<style>
+body {
+font-family: Arial, sans-serif;
+margin: 0;
+padding: 20px;
+background-color: #f5f5f5;
+}
+
+h1 {
+color: #007BFF;
+text-align: center;
+}
+
+p {
+margin-bottom: 10px;
+}
+</style>
+</head>
+<body>
+<h1>Cold and Cough Remedy</h1>
+    <p>If you have a cold and cough, you can try the following home remedy:</p>
+    <p>Drink warm fluids like herbal tea, broth, or warm water with honey and lemon. Gargle with salt water to soothe a sore throat. Stay hydrated and get plenty of rest.</p>
+    <p>Remember, it's important to consult a healthcare professional if your symptoms persist or worsen.</p>
+<img src = "coldremedy.jpeg" height="500" width="700">
+</body>
+</html>
